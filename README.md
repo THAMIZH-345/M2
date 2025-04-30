@@ -1,3 +1,6 @@
+NAME:TAMILSELVAN R
+REG NO:212224060275
+
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
